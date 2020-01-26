@@ -1,3 +1,5 @@
+MSDN thread: https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/6da032c8-c552-43c3-a20c-f7f12f18e86c/readfile-returns-statuscloudfilenotsupported-when-reading-partial-placeholder-files?forum=windowssdk#6da032c8-c552-43c3-a20c-f7f12f18e86c
+
 Application based on CloudMirror sample: https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/CloudMirror
 
 This Application is created to reproduce issues with Cloud Filter and Foobar2000
